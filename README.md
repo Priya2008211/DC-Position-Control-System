@@ -26,7 +26,8 @@ Computer with MATLAB software
 
 ## Program
 
-<img width="1920" height="1080" alt="Screenshot 2026-07-30 141342" src="https://github.com/user-attachments/assets/ccab99c8-6c53-4f02-a46b-452691fdf0b6" />
+<img width="656" height="338" alt="WhatsApp Image 2026-07-30 at 9 39 22 PM" src="https://github.com/user-attachments/assets/a120abd5-8f6f-4e99-847e-b3501196b9be" />
+
 
 
 ## Output
