@@ -11,6 +11,11 @@ To control the position of motor having the following specifications using MATLA
 Computer with MATLAB software
 ## Theory: 
 
+<img width="1097" height="1600" alt="trans 1" src="https://github.com/user-attachments/assets/3051b407-4299-4bd2-b26d-7a2240554aa0" />
+<img width="720" height="1280" alt="trans 2" src="https://github.com/user-attachments/assets/40820bf1-911c-4b94-bf18-2d759f7b701d" />
+<img width="1234" height="1600" alt="trans 3" src="https://github.com/user-attachments/assets/74386059-eb2d-4ab2-8f32-4528f83d6215" />
+
+
 
 ## Procedure:
 1.	Open MATLAB software
@@ -21,7 +26,13 @@ Computer with MATLAB software
 
 ## Program
 
+<img width="1920" height="1080" alt="Screenshot 2026-07-30 141342" src="https://github.com/user-attachments/assets/ccab99c8-6c53-4f02-a46b-452691fdf0b6" />
+
+
 ## Output
+<img width="1920" height="1080" alt="Screenshot 2026-07-30 141315" src="https://github.com/user-attachments/assets/5b45910f-1e33-4f7d-a97d-cf0fae1a66fd" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-07-30 143338" src="https://github.com/user-attachments/assets/f7ef326f-5f7b-42af-b2a7-3e8e9b78d856" />
 
 ## Result
 Thus, the position of dc motor is controlled using MATLAB. 
